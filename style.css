@@ -1,0 +1,24 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px orange;
+}
+.note{
+    font-size: 15px;
+    color: orchid;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: orchid;
+    background-color:palegreen;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 10px solid yellow;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+}
